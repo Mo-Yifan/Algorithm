@@ -1,0 +1,8 @@
+Step1: A->C
+Step2: A->B
+Step3: C->B
+Step4: A->C
+Step5: B->A
+Step6: B->C
+Step7: A->C
+Total steps: 7
